@@ -1,0 +1,180 @@
+{
+    "entities": [
+        {
+            "type": "invoice_id",
+            "mention_text": "9993267052",
+            "confidence": 0.8733
+        },
+        {
+            "type": "invoice_date",
+            "mention_text": "07.06.2023",
+            "confidence": 0.8585
+        },
+        {
+            "type": "total_amount",
+            "mention_text": "137719.57",
+            "confidence": 0.8405
+        },
+        {
+            "type": "net_amount",
+            "mention_text": "137719.57",
+            "confidence": 0.6299
+        },
+        {
+            "type": "receiver_name",
+            "mention_text": "COLGATE-PALMOLIVE (INDIA) LIMITED",
+            "confidence": 0.551
+        },
+        {
+            "type": "receiver_tax_id",
+            "mention_text": "23AAACC4309B1ZI",
+            "confidence": 0.4434
+        },
+        {
+            "type": "total_tax_amount",
+            "mention_text": "10286.60",
+            "confidence": 0.3713
+        },
+        {
+            "type": "invoice_type",
+            "mention_text": "",
+            "confidence": 0.2173
+        },
+        {
+            "type": "supplier_phone",
+            "mention_text": "67095050/60",
+            "confidence": 0.1566
+        },
+        {
+            "type": "supplier_address",
+            "mention_text": "COLGATE RESEARCH CENTER, MAIN ST. POWAI,\nMUMBAI-",
+            "confidence": 0.1017
+        },
+        {
+            "type": "line_item",
+            "mention_text": "COL TP 200 G - B12 4.00 DZ 4285.52",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "8.00 DZ 4831.01",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1607750-22 Col Plax MW FM 100 3.00 DZ 1666.27",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "6.00 DZ 991.30 5276.43",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1.00 CS 1721.73 1527.42",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1.00 DZ 3871.14",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "3483.93 12.00 DZ",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "30.00 DZ 36291.56",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "18.00 DZ 33794.84",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "2.00 DZ 5690.56",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "24.00 PC 3469.71 220.00 Super Flexi 11+2 SF [M]",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "220.00 24.00 PC 3469.71 Super Flexi 11+2 SF [S]",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "IN00810A21 3.00 DZ 230.00 6387.36",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "MAXFRESH RED 300G SAVER",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "16.00 DZ 23536.52",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "12 DOZ",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "21 DOZ",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "4285.52",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "4831.01",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "3483.93",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "29923.88",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1666.27",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "14.000 84924.53",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1.000 1527.42",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "96032100 2.000 6939.42",
+            "confidence": 1.0
+        }
+    ],
+    "text": "COLGATE-PALMOLIVE (INDIA) LIMITED\nOriginal for Buyer - 1st Copy\nBill to party:\nM/s Laxmi Traders\nIndore Warehouse, LIFE CARE INTERNATIONAL,\n37-38, LASUDIA MORI, DEWAS NAKA, Indore 452010-452010\nGSTIN: 23AAACC4309B1ZI\nPAN Number -\nAAACC4309B\nTAX INVOICE\n13 BASEMENT NEVORI MANDIR ROAD NEAR\nBhopal\n462001\nPOS MADHYA PRADESH - 23 - MP\nGSTIN No.\n23AAGFL3214P1ZA\nAAGFL3214P\nPAN No.\nCategory\nWarehouse\nRegion\nDistrict-\nZone\nIN0049\n00000255\nIN67\nSTATE BANK OF INDIA\n247776 SHAMLI\nEway Bill No. 661573570220\nAHM\nTown\nA341\nCUSTOMER\nINVOICE NO.\nDELIVERY NO\nORDER NO.\nORDER DATE\nPYT\nPAGE\nAPPROX DESP. DATE\n0016327886\nM/s Laxmi Traders\n9993267052\n07.06.2023\n0215247188\nNF-999999\n07.06.2023\nAdvance Demand Draft\n1\n07.06.2023\nCGST\nSGST\nNo. of\nSKU Code\nDescription & Batch\nBatch Code\nHSN\nOty\nUOM MRP/PC\nInvoice\nRate\nList Price\nAll Inc.\nAgreed\nDiscount/\nUOM\nAdditional\nDiscount/\nUOM\nNet Amount\nTotal Amount\nCase\nRate\nAmount\nRate\nAmount\n1601319-23\nCOL TP 200 G - B12\n23D230512 3306.10.10\n4.00\nDZ\n110.00\n1207.69\n1086.69\n78.34\n51.76\n1.000\n3826.36\n6\n229.58\n6\n229.58\n4285.52\n1601339-19\nCOL TP 100 G - B09\n19D230509 33061010\n8.00\nDZ\n62.00\n680.70\n612.50\n44.15\n29.17\n1.000\n4313.41\n6\n258.80\n6\n258.80\n4831.01\n1607750-22\nCol Plax MW FM 100\n221220929 3306.90.00\n3.00\nDZ\n60.00\n626.09\n536.78\n40.61\n25.47\n1.000\n1412.09\n9\n127.09\n9\n127.09\n1666.27\n1607778-13\n13T230428 33061020\n6.00\nDZ\n95.00#\n991.30\n849.89\n64.31\n40.32\n1.000\n4471.55\n9\n402.44\n9\n402.44\n5276.43\n61009361-13\n131220907 33069000\n1.00\nCS\n55.00\n1721.73\n1476.14\n111.69\n70.03\n1.000\n1294.42\n9\n116.50\n9\n116.50\n1527.42\nColgate Visible White 50G - B28\nCOL MW PEPPERMINT\n100MLx36_India\nCDC 800g Saver - B02\nCibaca 65g - B11\nCDC 200 RL - B04\n61013471-18\n18U230202 33061020\n1.00\nDZ\n400.00\n4363.64\n3741.18\n283.06\n177.50\n1.000\n3280.62\n9\n295.26\n9\n295.26\n3871.14\n61024443-11\n11F230511 3306 10 20\n30.00\n327.27\n280.58\n21.23\n13.31\n1.000\n2952.49\n9\n265.72\n9\n265.72\n3483.93\n12.00 DZ\n30.00 DZ\n61036531-11\n11U230504 33061020\n125.00\n1363.64\n1169.12\n88.46\n55.47\n5.000\n30755.56\n9\n2768.00\n9\n2768.00\n36291.56\n61036532-11\nCDC TP 200+100+TB RL - B11\n11B230511 33061020\n18.00\nDZ\n194.00\n2116.36\n1814.46\n137.28\n86.09\n6.000\n28639.70\n9\n2577.57\n9\n2577.57\n33794.84\n61036538-11\nCDC 500G SAVER RL - B30\n11B230430 33061020\n2.00\nDZ\n294.00\n3207.27\n2749.77\n208.05\n130.47\n1.000\n4822.50\n9\n434.03\n9\n434.03\n5690.56\n61036963-11\n11R230516 96032100\n24.00\nPC\n162.96\n139.72\n10.57\n6.63\n1.000\n2940.43\n264.64\n9\n264.64\n3469.71\n220.00\n220.00\n61036964-11\n11R230509 96032100\n24.00\nPC\n162.96\n139.72\n10.57\n6.63\n1.000\n2940.43\n9\n264.64\n9\n264.64\n3469.71\nIN00810A21\nSuper Flexi 11+2 SF [M]\nSuper Flexi 11+2 SF [S]\nMAXFRESH RED 300G SAVER\n- B06\nCol Herbal 200g - 8 dz - B21\n0.000\n21T230406 3306.10.20\n3.00\nDZ\n230.00\n2400.00\n2057.65\n155.68\n97.63\n1.000\n5413.02\n487.17\n9\n487.17\n6387.36\nIN01003A21\n21B230421 3306.10.20\n16.00\nDZ\n152.00\n1658.18\n1421.65\n107.56\n67.45\n2.000\n19946.20\n9\n1795.16\n9\n1795.16\n23536.52\nTotal lose\nTotal Wt\n312.32\nTotal\n24\n117008.78\n137581.98\nItems Supplied Free:\nItems Not Supplied:\n61013920\nColgate Vedshakti 180g\n61036532\nCDC TP 200+100+TB RL\n12\nDOZ\n21\nDOZ\nTax Summary:\nCGST\nSGST\nNo. of\nRate\nAmount\nRate\nAmount\nHSN Code\n3306.10.10\nCases\n1.000\nNet\n3826.36\nTotal\nAmount\n4285.52\n6.00\n229.58\n6.00\n229.58\n33061010\n1.000\n4313.41\n6.00\n258.80\n6.00\n258.80\n4831.01\n3306 10 20\n1.000\n2952.49\n9.00\n265.72\n9.00\n265.72\n3483.93\n3306.10.20\n3.000\n25359.22\n9.00\n2282.33\n9.00\n2282.33\n29923.88\n3306.90.00\n1.000\n1412.09\n9.00\n127.09\n9.00\n127.09\n1666.27\n33061020\n14.000\n71969.93\n9.00\n6477.30\n9.00\n6477.30\n84924.53\nAmount of Tax subject to Reverse Charge\n\"We hereby certify that our Registration Certificate under the\nis in force on the date on which the sale of the goods specified in\nthis bill is made dy us, and that the transaction of the sale convered by\nthis bill/cash memo has been effected dy us in the regular course of\nOur Business\nMRP ending with #3 indicate new prices\nCOLGATE -\nPALMOLIVE\n(INDIA) LIMITED\nThe tax credits availed by the company has been passed on. Subsequent dealers/ retailers in the distribution chain are compulsorily\nrequired to pass this on to the end consumer as reduction in the final selling price.\nE. & O.E\nREGD. OFFICE: COLGATE RESEARCH CENTER, MAIN ST. POWAI,\nMUMBAI-400076. TEL.:67095050/60\nSarala\nSarala Menon\n(Executive Vice President Supply Chain )\nCOLGATE-PALMOLIVE (INDIA) LIMITED\nOriginal for Buyer - 1st Copy\nBill to party:\nM/s Laxmi Traders\nIndore Warehouse, LIFE CARE INTERNATIONAL,\n, LASUDIA MORI, DEWAS NAKA, Indore 452010-45201037-38\nGSTIN: 23AAACC4309B1ZI\nPAN Number -\nAAACC4309B\nTAX INVOICE\n13 BASEMENT NEVORI MANDIR ROAD NEAR\nBhopal\n462001\nPOS MADHYA PRADESH - 23 - MP\nGSTIN No.\n23AAGFL3214P1ZA\nPAN No.\nAAGFL3214P\nCategory\nWarehouse\nRegion\nDistrict-\nZone\nTown\nIN0049\n00000255\nIN67\nSTATE BANK OF INDIA\n247776 SHAMLI\nEway Bill No. 661573570220\nAHM\nA341\nCUSTOMER\nINVOICE NO.\nDELIVERY NO\nORDER NO.\nORDER DATE\nPYT\nPAGE\nAPPROX DESP. DATE\n0016327886\nM/s Laxmi Traders\n9993267052\n07.06.2023\n0215247188\nNF-999999\n07.06.2023\nAdvance Demand Draft\n2\n07.06.2023\n33069000\n1.000\n1294.42\n9.00\n116.50\n9.00\n116.50\n1527.42\n96032100\n2.000\n5880.86\n9.00\n529.28\n9.00\n529.28\n6939.42\nTotal\n24.000\n117008.78\n10286.60\n10286.60\n137581.98\nTotal TCS\n137.59\nGrand Total\n137719.57\nTotal Additional Discount\n6330.98\nTotal Amount in words: One lakh thirty seven thousand seven hundred nineteen rupees fifty seven paise\nonly\nCredit Debit Notes:\nNet Payable Amount\n137719.57\nTotal Additional Discount\n6330.98\nAmount of Tax subject to Reverse Charge\n\"We hereby certify that our Registration Certificate under the\nis in force on the date on which the sale of the goods specified in\nthis bill is made dy us, and that the transaction of the sale convered by\nthis bill/cash memo has been effected dy us in the regular course of\nOur Business\nMRP ending with #3 indicate new prices\nCOLGATE -\nPALMOLIVE\n(INDIA) LIMITED\nThe tax credits availed by the company has been passed on. Subsequent dealers/ retailers in the distribution chain are compulsorily\nrequired to pass this on to the end consumer as reduction in the final selling price.\nE. & O.E\nREGD. OFFICE: COLGATE RESEARCH CENTER, MAIN ST. POWAI,\nMUMBAI-400076. TEL.:67095050/60\nSarala\nSarala Menon\n(Executive Vice President Supply Chain )\nCOLGATE-PALMOLIVE (INDIA) LIMITED\nOriginal for Buyer - 1st Copy\nBill to party:\nM/s Laxmi Traders\nIndore Warehouse, LIFE CARE INTERNATIONAL,\n, LASUDIA MORI, DEWAS NAKA, Indore 452010-45201037-38\nGSTIN: 23AAACC4309B1ZI\nPAN Number -\nAAACC4309B\nTAX INVOICE\n13 BASEMENT NEVORI MANDIR ROAD NEAR\nBhopal\n462001\nPOS MADHYA PRADESH - 23 - MP\nGSTIN No.\n23AAGFL3214P1ZA\nPAN No.\nAAGFL3214P\nCategory\nWarehouse\nRegion\nDistrict-\nZone\nTown\nIN0049\n00000255\nIN67\nSTATE BANK OF INDIA\n247776 SHAMLI\nEway Bill No. 661573570220\nAHM\nA341\nCUSTOMER\nINVOICE NO.\nDELIVERY NO\nORDER NO.\nORDER DATE\nPYT\nPAGE\nAPPROX DESP. DATE\n0016327886\nM/s Laxmi Traders\n9993267052\n07.06.2023\n0215247188\nNF-999999\n07.06.2023\nAdvance Demand Draft\n3\n07.06.2023\nIRN NO. fd59ad276d80516ad4fe9f4eae69acbf003b166cfdf06872303b5e8bd74cbaae\nAmount of Tax subject to Reverse Charge\n\"We hereby certify that our Registration Certificate under the\nis in force on the date on which the sale of the goods specified in\nthis bill is made dy us, and that the transaction of the sale convered by\nthis bill/cash memo has been effected dy us in the regular course of\nOur Business\nMRP ending with #3 indicate new prices\nCOLGATE -\nPALMOLIVE\n(INDIA) LIMITED\nThe tax credits availed by the company has been passed on. Subsequent dealers/ retailers in the distribution chain are compulsorily\nrequired to pass this on to the end consumer as reduction in the final selling price.\nE. & O.E\nREGD. OFFICE: COLGATE RESEARCH CENTER, MAIN ST. POWAI,\nMUMBAI-400076. TEL.:67095050/60\nSarala\nSarala Menon\n(Executive Vice President Supply Chain )\n"
+}
