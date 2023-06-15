@@ -1,0 +1,130 @@
+{
+    "entities": [
+        {
+            "type": "currency",
+            "mention_text": "Rs",
+            "confidence": 1.0
+        },
+        {
+            "type": "vat",
+            "mention_text": "17.37",
+            "confidence": 1.0
+        },
+        {
+            "type": "invoice_date",
+            "mention_text": "07/06/2023",
+            "confidence": 0.9911
+        },
+        {
+            "type": "invoice_id",
+            "mention_text": "30058",
+            "confidence": 0.9801
+        },
+        {
+            "type": "total_amount",
+            "mention_text": "ONE THOUSAND SEVENTEEN ONLY",
+            "confidence": 0.836
+        },
+        {
+            "type": "receiver_name",
+            "mention_text": "KHANUJA STATIONARYA",
+            "confidence": 0.8346
+        },
+        {
+            "type": "supplier_address",
+            "mention_text": "41, SHEELNATH CAMP,\nGOKULDAS CMPOUND.,INDORE",
+            "confidence": 0.6306
+        },
+        {
+            "type": "net_amount",
+            "mention_text": "862.11",
+            "confidence": 0.6278
+        },
+        {
+            "type": "receiver_address",
+            "mention_text": "VAISHALI NAGER\n-INDORE",
+            "confidence": 0.5365
+        },
+        {
+            "type": "supplier_phone",
+            "mention_text": "9926489570",
+            "confidence": 0.4504
+        },
+        {
+            "type": "supplier_tax_id",
+            "mention_text": "11416850000406",
+            "confidence": 0.3365
+        },
+        {
+            "type": "ship_to_address",
+            "mention_text": "KHANUJA STATIONARYA[1441665A7\nVAISHALI NAGER\n-INDORE\nSTATE #MADHYA PRADESH(23)",
+            "confidence": 0.2326
+        },
+        {
+            "type": "supplier_registration",
+            "mention_text": "1441665",
+            "confidence": 0.1837
+        },
+        {
+            "type": "supplier_name",
+            "mention_text": "VEDIC INFOTECH",
+            "confidence": 0.1586
+        },
+        {
+            "type": "total_tax_amount",
+            "mention_text": "77.5",
+            "confidence": 0.1028
+        },
+        {
+            "type": "purchase_order",
+            "mention_text": "831995146",
+            "confidence": 0.0094
+        },
+        {
+            "type": "freight_amount",
+            "mention_text": "1017.00",
+            "confidence": 0.0057
+        },
+        {
+            "type": "receiver_tax_id",
+            "mention_text": "30058",
+            "confidence": 0.0061
+        },
+        {
+            "type": "supplier_iban",
+            "mention_text": "7097270972",
+            "confidence": 0.0007
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "93.75 26.48 1 FIVE STAR OREO 420 1 35.00 3 7.15",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "7.70 2 PERK RS.10 226 10.00 PCS 12 8.32",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "75.67 3 TEMPTATION ALMOND TREAT 72G CARTON PAC 18063200 1F30513 100.00 PCS 100.00 4 CON FRUIT & NUT 36G RS.45 45.00 2 3 151.33 13. 102.15 178.57 120.53",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "5 BOURNVILLE 70% RICH COCOA 18063200 1F30330 100.00 PCS 100.00 7 151.33 178.57",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "& FIVE STAR 10.1GX540 FLOWPACK NN RECIFE 5.00 PCS 7 CON SILK DREG 60G RS.85 85.00 PCS 24 3 92.45 192.95 227.69",
+            "confidence": 1.0
+        }
+    ],
+    "text": "VEDIC INFOTECH\n41, SHEELNATH CAMP,\nGOKULDAS CMPOUND.,INDORE\nSTATE NAME : MADHYA PRADESH[23]\nPH #9754301891\nGSTIN :23AEYPJ7561H1Z0\nIRN NO.: ACK NO.:\nTAX Invoice\nINVOICE NO. : 30058\nINVOICE DATE: 07/06/2023 DHE DT:07/06/2023\nCOPY TYPE: Original (For Customer)\nBILL TYPE: CREDIT PAGE NG: 1/1\nDetails of Receiver (Billed to)\nKHANUJA STATIONARYA[1441665A]\nVAISHALI NAGER\n-INDORE\nSTATE #MADHYA PRADESHE23] FSSAI NO:\nGSTIN/UNIQUE ID :\nPAN NO:\nPHONE : 9926489570\nBEAT # WED>R VAISHALI PA\n1\nDetails of Consignee (Shipped to)\nKHANUJA STATIONARYA[1441665A7\nVAISHALI NAGER\n-INDORE\nSTATE #MADHYA PRADESH(23)\nGSTIN/UNIQUE ID :\nPC NAME = MANOJ DAYARAM HARIYALE 831995146\nSr. Product Discription\nHSN\nOty FREE\nRate\nDis\nTAXABLE C6913\nANT SG912\nANT Net Ast\n93.75\n26.48\n7.70\n75.67\n1 FIVE STAR OREO 420\n18063100 130416 35.00 PCS\n2 PERK RS.10 226\n19053290 1830504 10.00 PCS\n3 TEMPTATION ALMOND TREAT 72G CARTON PAC 18063200 1F30513 100.00 PCS\n4 CON FRUIT & NUT 36G RS.45\n18063200 1430319 45.00 PCS\n5 BOURNVILLE 70% RICH COCOA\n18063200 1F30330 100.00 PCS\n& FIVE STAR 10.1GX540 FLOWPACK NN RECIFE 18063100 10304305 5.00 PCS\n7 CON SILK DREG 60G RS.85\n18063200 1130429 85.00 PCS\n3\n12\n2\n3\n7\n24\n3\n7.15\n8.32 9.02 8.32\n151.33 9.02 13.62 9.02 13.62\n102.15 9.02 9.19 9.02\n151.33 9.0% 13.62 9.0% 13.62\n92.45 9.02 8.32 9.02\n192.95 9.0% 17.37 9.0% 17.37\n178.57\n120.53\n178.57\n75.67\n64.32\n227.69\n862.11\n77.5A\nRS.IN WORD:ONE THOUSAND SEVENTEEN ONLY\nTAXABLE AMT:\nWarranty:I/We hereby certify that the foods mentioned in this invoice are warranted to be mature and quality which CGST AMT 3\nthey parport to be.\nSGS) \nAMT \n:\nFSSAI NO :11416850000406\nTCS AMT\nCheque bounce charges Rs 500/-,Please sake payanet against receipt only.\nCREDIT NOTE:\nFOR VEDIC INFOTECH\nROUNDING\nAuthorised Signatory\nRECEIVERS STAMP & SIGN.\nNET AMOUNT :\n[UID: 1441665]supervisor * Retailer help line: Give a miss call at 7097270972\nF\n-0.29\n1017.00\n"
+}

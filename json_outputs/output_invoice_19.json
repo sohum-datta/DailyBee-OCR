@@ -1,0 +1,105 @@
+{
+    "entities": [
+        {
+            "type": "vat",
+            "mention_text": "559.00",
+            "confidence": 1.0
+        },
+        {
+            "type": "invoice_id",
+            "mention_text": "A593510633",
+            "confidence": 0.9981
+        },
+        {
+            "type": "invoice_date",
+            "mention_text": "07.06.2023",
+            "confidence": 0.9905
+        },
+        {
+            "type": "receiver_name",
+            "mention_text": "RAJDHANI PROVISION STORES\nVITTHAL MARKET",
+            "confidence": 0.9155
+        },
+        {
+            "type": "net_amount",
+            "mention_text": "559.09",
+            "confidence": 0.7537
+        },
+        {
+            "type": "ship_to_name",
+            "mention_text": "RAJDHANI PROVISION STORES\nVITTHAL MARKET",
+            "confidence": 0.7517
+        },
+        {
+            "type": "total_amount",
+            "mention_text": "559.00",
+            "confidence": 0.7129
+        },
+        {
+            "type": "purchase_order",
+            "mention_text": "59A3510533",
+            "confidence": 0.6584
+        },
+        {
+            "type": "supplier_phone",
+            "mention_text": "+917552464967",
+            "confidence": 0.6244
+        },
+        {
+            "type": "supplier_tax_id",
+            "mention_text": "23AAGFL3214P1ZA",
+            "confidence": 0.6061
+        },
+        {
+            "type": "supplier_address",
+            "mention_text": "48/49 A sector industrial area, BHOPAL, 4",
+            "confidence": 0.3179
+        },
+        {
+            "type": "total_tax_amount",
+            "mention_text": "42.64",
+            "confidence": 0.2411
+        },
+        {
+            "type": "supplier_name",
+            "mention_text": "GST council",
+            "confidence": 0.2112
+        },
+        {
+            "type": "freight_amount",
+            "mention_text": "0.09",
+            "confidence": 0.019
+        },
+        {
+            "type": "receiver_tax_id",
+            "mention_text": "23AAGFL3214P1ZA",
+            "confidence": 0.0026
+        },
+        {
+            "type": "supplier_iban",
+            "mention_text": "8602172411",
+            "confidence": 0.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "125 1363.6 CDC 200 RL CDC 200 RL 3 9.0 288.91 26.00 9.0 26.00 340.91",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "20 218.20 2 NEW_CDC 36g 0 9.0 16.64 9.0 1 16.64 218.18 12",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "HSN: 3306.10.20 HSN",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "0.00",
+            "confidence": 1.0
+        }
+    ],
+    "text": "TAX Invoice\nBill To: RAJDHANI PROVISION STORES\nVITTHAL MARKET\nShip To: RAJDHANI PROVISION STORES\nVITTHAL MARKET\nSeller Name & Address\nM/s Laxmi Traders\n48/49 A sector industrial area, BHOPAL, 4\nTel: 8602172411 Mob:\nSeller's State MP-23-Madhya Pradesh\nBuyer's State: MP-23-Madhya Pradesh\nGSTIN No. 23AAGFL3214P1ZA\nPAN AAGFL3214P\nAADHAR No. :\nInvoice No.: A593510633\nInvoice Date: 07.06.2023\nOrder No. 59A3510533\nPO No.\nSalesRep ashok kumar surevanshi\nRoute 5.6.7. MP NGR\nMode of Payment:\nRet. Code :C000678018\nTel: +917552464967 RE: General Stores\nGSTIN No. :\nPAN:\nAADHAR No. :\nQty\nSr.\nNo.\nSKU Description MRP\nRate/\nDoz\nFree\nQty\nPC\nGross Scheme Stockist Taxable\nValue Disc. Disc. Value\nCGST\n%\nCGST\nAmount\nSGST/\nUTGST\n%\nSGST/\nUTGST\nAmount\nNet\nAmount\nTotal\nPcs.\nCS Doz PC\n0\n125 1363.6 0\n20 218.20\n0\n288.9\n0 HSN: 3306.10.20\n1 CDC 200 RL\n2 NEW_CDC 36g\nGross/GST Totals:\n3\n3\n0\n9.0\n9.0\n288.91\n184.90\n473.81\n26.00\n16.64\n9.0\n9.0\n1\n184.9\n26.00\n16.64\n42.64\n340.91\n218.18\n559.09\n12\n473.81\n0.0\n42.64\nCGST\nHSN Code %\nCGST\nAmount\nSGST/\nUTGST\n3306.10.20 9.0\n42.64 9.0\nSGST/ Net Amount\nUTGST\nAmount\nTCS Base %\n42.64 Non-Product Disc.\nNet Invoice Amount\nRound Off\nNet Amount Payable\n559.09\n0.00\n0.00\n559.09\n0.09-\n559.00\nFor M/s Laxmi Traders\nE. &.O.E.\nWE HEREBY CERTIFY THAT OUR RC UNDER THE GST ACT IS IN FORCE ON THE DATE ON WHICH THE SALE OF GOOD SPECIFIED\nIN THIS TAX INVOI\nCustomers are statutorily required to pass on to their customers/consumers the benefit of lower GST rates on products like Hand Sanitizers as\nnotified by the GST council from time to time. Retailers are compulsorily required to pass on the post GST MRPs as indicated above to the end\nconsumer.\nPage 1 of 1\n"
+}
