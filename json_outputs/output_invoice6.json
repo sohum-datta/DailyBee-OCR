@@ -1,0 +1,110 @@
+{
+    "entities": [
+        {
+            "type": "currency",
+            "mention_text": "Rs",
+            "confidence": 1.0
+        },
+        {
+            "type": "vat",
+            "mention_text": "$\n1",
+            "confidence": 1.0
+        },
+        {
+            "type": "due_date",
+            "mention_text": "07/06/2023",
+            "confidence": 0.9881
+        },
+        {
+            "type": "invoice_date",
+            "mention_text": "07/06/2023",
+            "confidence": 0.984
+        },
+        {
+            "type": "invoice_id",
+            "mention_text": "30166",
+            "confidence": 0.9814
+        },
+        {
+            "type": "net_amount",
+            "mention_text": "2291.00",
+            "confidence": 0.7958
+        },
+        {
+            "type": "total_amount",
+            "mention_text": "33.28",
+            "confidence": 0.6099
+        },
+        {
+            "type": "supplier_address",
+            "mention_text": "41. SHEELNATH CAMP.\nGOKULDAS CHFOUND..INDORE",
+            "confidence": 0.5406
+        },
+        {
+            "type": "supplier_phone",
+            "mention_text": "9754301891",
+            "confidence": 0.5024
+        },
+        {
+            "type": "supplier_tax_id",
+            "mention_text": "#11416850000406",
+            "confidence": 0.4
+        },
+        {
+            "type": "supplier_registration",
+            "mention_text": "3011014",
+            "confidence": 0.123
+        },
+        {
+            "type": "total_tax_amount",
+            "mention_text": "369.80",
+            "confidence": 0.0917
+        },
+        {
+            "type": "purchase_order",
+            "mention_text": "11416850000406",
+            "confidence": 0.0151
+        },
+        {
+            "type": "freight_amount",
+            "mention_text": "33.28",
+            "confidence": 0.008
+        },
+        {
+            "type": "receiver_tax_id",
+            "mention_text": "30166",
+            "confidence": 0.0071
+        },
+        {
+            "type": "receiver_phone",
+            "mention_text": "9424051844",
+            "confidence": 0.0041
+        },
+        {
+            "type": "supplier_iban",
+            "mention_text": "MKIDUL AGRAWAL 9424052459",
+            "confidence": 0.0017
+        },
+        {
+            "type": "supplier_name",
+            "mention_text": "",
+            "confidence": 0.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "1 OREO VANILLA 43.759 RS.10 SLEPK 1 19053100 1P30517 10.00 BAG 10.00 7.70 84.75 7.63",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "CBR 6.6 X 728 CSE 18063200 1A30517 5.00 Outer 5.00 277.35 277.35 24.96",
+            "confidence": 1.0
+        },
+        {
+            "type": "line_item",
+            "mention_text": "3 OREO CHOCO 43.756 RS.10 SLEPK 19053100 1P30513 10.00 BAG 10.00 7.79",
+            "confidence": 1.0
+        }
+    ],
+    "text": "NET AMOUNT :\nTUID: 2028144] supervisor * Retailer help line: Give a miss call at 7097270972\n2291.00\nVEDIC INFOTECH\n41. SHEELNATH CAMP.\nGOKULDAS CHFOUND..INDORE\nSTATE NAME : MADHYA PRADESH[23\nPH :9754301891\nGSTIN :23AEYPJ7561H1Z0\nIRN NO.: ACK NO.:\nTAX Invoice\nINVOICE NO. : 30166\nINVOICE DATE: 07/06/2023 DUE DT:07/06/2023\nCOPY TYPE: Original (For Customer)\nBILL TYPE: CREDIT PAGE NG: 1/1\nDetails of Consignee (Shipped to)\nMAA ANNPURNA COLOTESION[4925]\nDetails of Receiver (Billed to)\nMAA ANNPURNA COLOTESION[4925]\n19 PARASWNATH NAGAR\nNEAR HAPPY TO.INDORE\nSTATE : MADHYA PRADESH[23] FSSAI NO:\nGSTIN/UNIQUE ID :\nPAN NO:\nPHONE : 9424051844 BEAT : WED) BOPHOW NAKART\nSTATE #MADHYA PRADESH 233\nGSTIN/UNIQUE ID :\nPC NAME : MKIDUL AGRAWAL 9424052459\nSr. Prodact Discription\nHSN\nHRP UON\nSty FREE\nRate\nDis\nC3 TAXABLE COSIZ\nAMT 96912\nANT Net Aat\n1 OREO VANILLA 43.759 RS.10 SLEPK\n2 CBR 6.6 X 728 CSE\n3 OREO CHOCO 43.756 RS.10 SLEPK\n19053100 1P30517 10.00 BAG\n18063200 1A30517 5.00 Outer\n19053100 1P30513 10.00 BAG\n7.70\n277.35\n$\n1\n84.75 9.02 7.83 9.02 7.63\n277.35 9.02 24.96 9.02 24.96\n7.79 9.0%\nCar\n369.80\n33.28\nRS.IN WORD: FOUR HUNDRED THIRTY SIX ONLY\nTAXABLE AMT:\nWarranty:1/de hereby certify that the foods mentioned in this invoice are warranted to be asture and quality which CSST AMT\nthey purport to be.\nSGST AMT\nFSSAI NO #11416850000406\nTCS AMT\nCheque bounce charges Rs 500/-,Please make payanet against receipt only.\nERFTIT NOTE:\nFOR VEDIC INFOTECH\nROUNDING ON\nAuthorised Signatory\nRECEIVERS STAMP & SIGN.\nNET AMOUNT =\n[UID: 3011014]supervisor * Retailer help line: Give a miss call at 7097270972\nEI\n4\n2\nBoo\n436.00\nFOR VEDIC INFUTECH\nTouthorised 9 VERS STAMP & SIGN-\nNEI AITUUNT :\n097270972\n"
+}
