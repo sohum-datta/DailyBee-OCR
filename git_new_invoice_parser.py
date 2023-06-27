@@ -73,7 +73,7 @@ def parser(file_path):
             extracted_data["Invoice Date"] = mention_text
         elif entity_type == "supplier_name":
             extracted_data["Vendor Name"] = mention_text
-        elif entity_type == "total_tax_amount":
+        elif entity_type == "supplier_tax_id":
             extracted_data["Vendor GST"] = mention_text
         elif entity_type == "line_item":
             line_item_properties = entity.properties
