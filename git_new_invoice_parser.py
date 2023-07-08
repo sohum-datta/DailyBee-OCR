@@ -63,6 +63,8 @@ def parser(file_path):
         "Vendor GST": None,
         "Products": [],
         "Total Order Value": None,
+        "Total Tax": None,
+        "Net Amount before tax": None
     }
 
     for entity in entities:
@@ -73,7 +75,7 @@ def parser(file_path):
             extracted_data["Invoice Date"] = mention_text
         elif entity_type == "supplier_name":
             extracted_data["Vendor Name"] = mention_text
-        elif entity_type == "total_tax_amount":
+        elif entity_type == "supplier_tax_id":
             extracted_data["Vendor GST"] = mention_text
         elif entity_type == "line_item":
             line_item_properties = entity.properties
@@ -95,7 +97,11 @@ def parser(file_path):
                         extracted_data["Products"].append(product)
 
         elif entity_type == "total_amount":
-            extracted_data["Total Order Value"] = mention_text   
+            extracted_data["Total Order Value"] = mention_text 
+        elif entity_type == 'total_tax_amount':
+            extracted_data["Total Tax"] = mention_text
+        elif entity_type == 'net_amount':
+            extracted_data["Net Amount before tax"] = mention_text
     # Store the extracted entities in a JSON file
     output_file = "output.json"
     with open(output_file, "w") as file:
